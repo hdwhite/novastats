@@ -1,4 +1,4 @@
-Raw data from http://hdwhite.org/blog/?p=127.
+Raw data from http://hdwhite.org/blog/2017/09/how-big-is-northern-virginia/.
 
 **Prompt used for the survey:**
 Which of these cities/towns/communities in Virginia do you consider part of "NOVA"?
